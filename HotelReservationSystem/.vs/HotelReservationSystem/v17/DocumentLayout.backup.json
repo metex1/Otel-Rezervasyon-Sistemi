@@ -1,0 +1,464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\dataaccesslayer\\reservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\dataaccesslayer\\reservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\dataaccesslayer\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\dataaccesslayer\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\dataaccesslayer\\managerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\dataaccesslayer\\managerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\dataaccesslayer\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\dataaccesslayer\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\service\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\service\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\service\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\service\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\service\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\service\\managerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\service\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\service\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\domain\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\domain\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\domain\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\domain\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\domain\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\domain\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\domain\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\domain\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\billpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\billpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\hotelreservationsystem\\customerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\customerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\hotelreservationsystem\\managerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\managerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\hotelreservationsystem\\reservationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\reservationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\roompage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\roompage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\managerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\managerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\hotelreservationsystem\\roompage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\roompage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\reservationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\reservationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\customerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\customerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\billpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\billpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|c:\\users\\hayri\\desktop\\mete visual studio\\proje\\hotelreservationsystem\\hotelreservationsystem\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\hotelreservationsystem\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F55CF9D-98EB-4B8E-A51C-62B7EE2BCE13}|HotelReservationSystem\\HotelReservationSystem.csproj|solutionrelative:hotelreservationsystem\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reservationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\DataAccessLayer\\reservationDAO.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\DataAccessLayer\\reservationDAO.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\DataAccessLayer\\reservationDAO.cs",
+              "RelativeToolTip": "HotelReservationSystem\\DataAccessLayer\\reservationDAO.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:44:49.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "roomDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\DataAccessLayer\\roomDAO.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\DataAccessLayer\\roomDAO.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\DataAccessLayer\\roomDAO.cs",
+              "RelativeToolTip": "HotelReservationSystem\\DataAccessLayer\\roomDAO.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:42:17.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "customerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\DataAccessLayer\\customerDAO.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\DataAccessLayer\\customerDAO.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\DataAccessLayer\\customerDAO.cs",
+              "RelativeToolTip": "HotelReservationSystem\\DataAccessLayer\\customerDAO.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:40:05.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "reservationService.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Service\\reservationService.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Service\\reservationService.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Service\\reservationService.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Service\\reservationService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:20:46.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "roomService.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Service\\roomService.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Service\\roomService.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Service\\roomService.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Service\\roomService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:15:25.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "customerService.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Service\\customerService.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Service\\customerService.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Service\\customerService.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Service\\customerService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:07:36.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Domain\\Reservation.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Domain\\Reservation.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Domain\\Reservation.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Domain\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:49:12.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Domain\\Room.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Domain\\Room.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Domain\\Room.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Domain\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:48:03.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Domain\\Customer.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Domain\\Customer.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Domain\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:47:08.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Domain\\Bill.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Domain\\Bill.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Domain\\Bill.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Domain\\Bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:34:25.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "billDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\DataAccessLayer\\billDAO.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\DataAccessLayer\\billDAO.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\DataAccessLayer\\billDAO.cs",
+              "RelativeToolTip": "HotelReservationSystem\\DataAccessLayer\\billDAO.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:53:31.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "managerDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\DataAccessLayer\\managerDAO.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\DataAccessLayer\\managerDAO.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\DataAccessLayer\\managerDAO.cs",
+              "RelativeToolTip": "HotelReservationSystem\\DataAccessLayer\\managerDAO.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwEUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:33:36.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManagerPage.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\ManagerPage.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\ManagerPage.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\ManagerPage.cs",
+              "RelativeToolTip": "HotelReservationSystem\\ManagerPage.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAswH0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:30:45.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReservationPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\ReservationPage.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\ReservationPage.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\ReservationPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HotelReservationSystem\\ReservationPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:46:24.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "billService.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Service\\billService.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Service\\billService.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Service\\billService.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Service\\billService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:51:58.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "managerService.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Service\\managerService.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Service\\managerService.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Service\\managerService.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Service\\managerService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswCgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:33:12.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManagerPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\ManagerPage.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\ManagerPage.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\ManagerPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HotelReservationSystem\\ManagerPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:30:29.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BillPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\BillPage.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\BillPage.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\BillPage.cs [Design]",
+              "RelativeToolTip": "HotelReservationSystem\\BillPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:45:57.98Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\CustomerPage.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\CustomerPage.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\CustomerPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HotelReservationSystem\\CustomerPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:36:15.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Domain\\Manager.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\Domain\\Manager.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\Domain\\Manager.cs",
+              "RelativeToolTip": "HotelReservationSystem\\Domain\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:38:11.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomPage.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\RoomPage.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\RoomPage.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\RoomPage.cs",
+              "RelativeToolTip": "HotelReservationSystem\\RoomPage.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwHYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:37:02.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoomPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\RoomPage.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\RoomPage.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\RoomPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HotelReservationSystem\\RoomPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:46:17.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReservationPage.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\ReservationPage.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\ReservationPage.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\ReservationPage.cs",
+              "RelativeToolTip": "HotelReservationSystem\\ReservationPage.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEAAAAAAAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:46:32.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerPage.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\CustomerPage.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\CustomerPage.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\CustomerPage.cs",
+              "RelativeToolTip": "HotelReservationSystem\\CustomerPage.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:36:17.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BillPage.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\BillPage.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\BillPage.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\BillPage.cs",
+              "RelativeToolTip": "HotelReservationSystem\\BillPage.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAowG4AAAAAAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T17:33:43.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\LoginPage.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\LoginPage.cs",
+              "RelativeToolTip": "HotelReservationSystem\\LoginPage.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:04:14.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginPage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\LoginPage.cs",
+              "RelativeDocumentMoniker": "HotelReservationSystem\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\hayri\\Desktop\\Mete Visual Studio\\Proje\\HotelReservationSystem\\HotelReservationSystem\\LoginPage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HotelReservationSystem\\LoginPage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:04:07.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
